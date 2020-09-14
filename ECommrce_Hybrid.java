@@ -12,16 +12,14 @@ import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.android.AndroidElement;
 import io.appium.java_client.android.nativekey.AndroidKey;
 import io.appium.java_client.android.nativekey.KeyEvent;
-
 import static io.appium.java_client.touch.offset.ElementOption.element;
 import static io.appium.java_client.touch.LongPressOptions.longPressOptions;
 import static java.time.Duration.ofSeconds;
 
-
-//android.widget.Toast                                         		 <<<<------ CLASS NAME given to a TOAST MESSAGE
-//String toastMessage = driver.findElementByXPath("//android.widget.Toast[0]").getAttribute("name");		System.out.println("toastMessage")
-//to hide keyboard:     	driver.hidekeyboard();    				 <<<<------ use it anywhere to hide an open keyboard
-
+/////////////////////////////////////////////////////////////
+//		Proudly written ba Vafa Abadi
+//	    https://www.linkedin.com/in/vafaabadi/
+/////////////////////////////////////////////////////////////
 
 public class ECommrce_Hybrid extends baseECommerce {
 
@@ -161,3 +159,10 @@ public class ECommrce_Hybrid extends baseECommerce {
 	
 	
 }
+
+
+
+
+//android.widget.Toast                                         		 <<<<------ CLASS NAME given to a TOAST MESSAGE
+//String toastMessage = driver.findElementByXPath("//android.widget.Toast[0]").getAttribute("name");		System.out.println("toastMessage")
+//to hide keyboard:     	driver.hidekeyboard();    				 <<<<------ use it anywhere to hide an open keyboard
