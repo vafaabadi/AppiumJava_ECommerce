@@ -6,8 +6,10 @@ import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.android.AndroidElement;
 import io.appium.java_client.remote.MobileCapabilityType;
 
-
-
+/////////////////////////////////////////////////////////////
+//		Proudly written ba Vafa Abadi
+//	    https://www.linkedin.com/in/vafaabadi/
+/////////////////////////////////////////////////////////////
 
 public class baseECommerce {
 
